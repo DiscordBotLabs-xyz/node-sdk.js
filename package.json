@@ -1,0 +1,30 @@
+{
+  "name": "dblabs.js",
+  "version": "1.0.0",
+  "description": "Official API wrapper for Discord Bot Labs",
+  "main": "main.dblabs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordBotLabs-xyz/dblabs.js.git"
+  },
+  "keywords": [
+    "botlist",
+    "botlist-api",
+    "dblabs",
+    "dblabs.js",
+    "dblabs.js-api"
+  ],
+  "authors": [
+    {
+      "name": "Discord Bot Labs",
+      "email": "contact@dblabs.xyz",
+      "url": "https://dblabs.xyz"
+    },
+    {
+      "name": "benzmeister",
+      "email": "benz@dblabs.xyz",
+      "url": "https://dev-benzmeister.tk"
+    }
+  ],
+  "license": "Apache-2.0"
+}
