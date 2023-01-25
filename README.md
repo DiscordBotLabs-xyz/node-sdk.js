@@ -82,6 +82,6 @@ client.on("ready", () => {
     }
  */
 ---
+```
 
 <h6 align="center">Developed by Discord Bot Labs Team</h6>
-```
