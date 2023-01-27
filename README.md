@@ -4,8 +4,7 @@
 # Installation
 
 ```console
-npm i dblabs.js
-yarn add dblabs.js
+$ npm i dblabs.js
 ```
 
 # Usage
